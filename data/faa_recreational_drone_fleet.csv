@@ -1,0 +1,11 @@
+year,fleet_million_sUAS,cumulative_registered_operators,faa_edition,note,source_url
+2016,0.78857,626245,FY2018 (fleet) / FY2017 (operators),"fleet = FAA revised 'actual' for 2016 (788,570 aircraft); operators registered by 31 Dec 2016",https://web.archive.org/web/20181231215802/https://www.faa.gov/data_research/aviation/aerospace_forecasts/media/Unmanned_Aircraft_Systems.pdf
+2017,1.10,873000,FY2018,operators extrapolated by FAA from June-December 2017,https://web.archive.org/web/20181231215802/https://www.faa.gov/data_research/aviation/aerospace_forecasts/media/Unmanned_Aircraft_Systems.pdf
+2018,1.25,,FY2019,"FAA text: over 900,000 modelers registered at end of 2018",https://web.archive.org/web/20191215221018/https://www.faa.gov/data_research/aviation/aerospace_forecasts/media/Unmanned_Aircraft_Systems.pdf
+2019,1.32,,FY2020,"FAA text: almost 990,000 owners registered by Dec 2019",https://web.archive.org/web/20201128032103/https://www.faa.gov/data_research/aviation/aerospace_forecasts/media/Unmanned_Aircraft_Systems.pdf
+2020,1.4365,,FY2021,"FAA text: about 1.14 million operators registered by Dec 2020",https://web.archive.org/web/20220102215648/https://www.faa.gov/data_research/aviation/aerospace_forecasts/media/Unmanned_Aircraft_Systems.pdf
+2021,1.5822,1374918,FY2022,cumulative registrations 1.37 million at end of Dec 2021,https://www.faa.gov/sites/faa.gov/files/2022-06/Unmanned_Aircraft_Systems.pdf
+2022,1.6885,1470000,FY2023,"FAA text: over 1.47 million new owners registered cumulatively by end of Dec 2022",https://www.faa.gov/sites/faa.gov/files/2023-Unmanned%20Aircraft%20Systems%20and%20Advance%20Air%20Mobility_0.pdf
+2023,1.7768,1540000,FY2024,"FAA text: over 1.54 million new owners registered cumulatively by end of Dec 2023",https://www.faa.gov/data_research/aviation/aerospace_forecasts/unmanned_aircraft_systems.pdf
+2024,1.87,1610000,FY2025,"FAA text: over 1.61 million operators cumulatively registered at end of 2024",https://www.faa.gov/data_research/aviation/aerospace_forecasts/2025-uas-and-aam-full-document.pdf
+2025,1.93,1660000,FY2026,"'high' estimate = cumulative registrants x 1.16 aircraft each; over 1.66 million operators registered cumulatively by end of Dec 2025",https://www.faa.gov/data_research/aviation/aerospace_forecasts/uas-compendium.pdf
